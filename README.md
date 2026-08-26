@@ -4,8 +4,8 @@ This repository contains exercises and assignments for GEOG 592.
 
 ## Student information
 
-Name:
+Name: Erina Islam
 
-ONYEN:
+ONYEN:erinai
 
-GitHub username:
+GitHub username: erinaisl
